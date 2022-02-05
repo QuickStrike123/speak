@@ -1,0 +1,78 @@
+body {
+
+  color: white;
+
+  background: #c0d3ff;
+
+}
+
+span {
+
+  font-size: 30px;
+
+}
+
+#camera,
+#result {
+
+  border: 2px dashed black;
+
+  width: 350px;
+
+  height: 300px;
+
+}
+
+#result_emotion_name,
+#result_emotion_name2 {
+
+  color: black;
+
+  font-size: 40px;
+
+}
+
+.emoji {
+
+  font-size: 48px;
+
+}
+
+.heading {
+
+  border-radius: 10px;
+
+  letter-spacing: 10px;
+
+  font-size: 20px;
+
+  font-family: "Roboto", sans-serif;
+
+}
+
+#Take_Snapshot,
+#Identify_Emoji {
+
+  color: green;
+
+  background-color: white;
+
+  padding: 5px;
+
+  border-radius: 10px;
+
+  font-size: 15px;
+
+}
+
+label {
+
+  color: springgreen;
+
+  background-color: whitesmoke;
+
+  border-radius: 10px;
+
+  padding: 5px;
+
+}
